@@ -26,4 +26,8 @@ By analyzing travel patterns, pricing strategies, and the industry’s competiti
 ---
 **Data Analysis and Reporting**
 
+**Profitable Routes Analysis**
+
+The purpose of this analysis is to **calculate the profit margin of each route**, specifically **determining how much profit each route generates for every dollar of revenue**. By understanding the profit margin for each route, **Tahmeed Bus Company can allocate resources such as buses, fuel, and drivers to routes that are financially viable**, resulting in **a better return on investment (ROI)**.
+
 
