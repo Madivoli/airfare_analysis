@@ -34,14 +34,13 @@ By analyzing travel patterns, pricing strategies, and the industry’s competiti
 The purpose of this analysis is to **calculate the profit margin of each route**, specifically **determining how much profit each route generates for every dollar of revenue**. By understanding the profit margin for each route, **Tahmeed Bus Company can allocate resources such as buses, fuel, and drivers to routes that are financially viable**, resulting in **a better return on investment (ROI)**.
 
 
-<img width="1363" height="730" alt="image" src="https://github.com/user-attachments/assets/85544a08-df12-42d3-89f6-976c8e430d77" />
-
+<img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/fe8d7614-0aab-4754-a48e-96e24a7fa2bc" />
 
 
 🔍 **Key Insights**
-- **Profit margins vary significantly across different routes**, even from the same city of origin. For example, the route from Albany, New York, to Washington, D.C., has a profit margin of 72% (0.72), while the Albany to Tampa, Florida route has a profit margin of 42% (0.42). **This variation indicates that not all routes are equally profitable**.
-- **Some routes demonstrate particularly high profit margins**, such as Albany to Washington, D.C. (0.72), Albuquerque to Phoenix (94%), and Albuquerque to Las Vegas (89%). **These routes generate strong returns relative to their costs**, especially considering the industry average profit margin of 36%.
-- **Certain routes are unprofitable, as evidenced by their negative profit margins**. For instance, the Albany to San Francisco route has a profit margin of -1.65, and the Albuquerque to Miami route shows a profit margin of -1.66. **These figures indicate that these routes incur losses that far exceed their revenues**, presenting a serious business concern that requires the attention of senior management.
+- **Profit margins vary significantly across different routes**, even from the same city of origin. For example, the route from Albany, New York, to Washington, D.C., has a profit margin of 72%, while the Albany to Tampa, Florida route has a profit margin of 42%. **This variation indicates that not all routes are equally profitable**.
+- **Some routes demonstrate particularly high profit margins**, such as Albany to Washington, D.C. (72%), Albuquerque to Phoenix (94%), and Albuquerque to Las Vegas (89%). **These routes generate strong returns relative to their costs**, especially considering the industry average profit margin of 36%.
+- **Certain routes are unprofitable, as evidenced by their negative profit margins**. For instance, the Albany to San Francisco route has a profit margin of -16.5%, and the Albuquerque to Miami route shows a profit margin of -16.6%. **These figures indicate that these routes incur losses that far exceed their revenues**, presenting a serious business concern that requires the attention of senior management.
 
 📉 **Business and Operational Implications** 
 - **The routes with negative profit margins are essentially being subsidized by the profitable ones**. However, this situation is **unsustainable in the long run**. Continuing to operate these unprofitable routes drains the company’s resources and overall profitability.
@@ -53,14 +52,15 @@ The purpose of this analysis is to **calculate the profit margin of each route**
 - Based on the findings from this investigation, the company must decide whether to **optimize these routes to improve profitability**, which may include _increasing fares, reducing costs through efficiency, decreasing flight frequency_, or **changing the size of the aircraft**. Alternatively, if these routes cannot be made profitable, the company may **consider discontinuing them altogether**.
 - Additionally, the company should **analyze the characteristics of its most profitable routes**, such as Albany to Washington, D.C., and Albuquerque to Phoenix. By understanding what makes these routes successful, the company can attempt to **replicate their success on other routes** or **explore new routes with similar characteristics to maximize overall profitability**.
 - To expand profitable operations, the company should **reevaluate its entire pricing structure**, especially for loss-making routes. This reevaluation will **help ensure that prices are more closely aligned with costs** and **market value for each route**, thereby _standardizing profit margins_ and _preventing significant losses on any single route in the future_.
-
+---
 ---
 **Popular Routes Analysis**
 
 Popular route analysis provides transportation and logistics businesses with crucial data to **optimize operational efficiency**, **reduce costs**, and **improve customer satisfaction**. By understanding which routes are used most often, and the factors affecting them, Tahmeed Bus Company can make smarter, data-driven decisions that impact their bottom line and competitiveness. For example, if many passengers on the Nairobi to Dar-es-Salaam route are connecting to Arusha, a direct bus to Arusha might be viable.
 
+<img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/f7d5cdac-a359-4ec4-9479-95f7cb372b55" />
 
-<img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/87b9fbee-f571-433d-8d8d-65e7e2a14999" />
+
 
 🔍 **Key Insights**
 - Several routes are particularly popular, including **Chicago - New York City with 1 million passengers**; **Los Angeles - San Francisco with over 2 million passengers;** and **Boston - Washington, with over 700 thousand passengers**. These figures indicate **a high volume of travelers on these routes**.
@@ -77,9 +77,41 @@ Popular route analysis provides transportation and logistics businesses with cru
 
 - **Increase flight frequency** and **assign more staff to the most popular airports** and **routes** to handle the high volume of passengers efficiently and improve customer satisfaction.
 - **Conduct a cost-benefit analysis** on the less popular routes or destinations. Determine which ones are still profitable despite low passenger counts and which ones should be discontinued or merged to free up resources.
-
+---
 ---
 **Fare vs. Distance Analysis**
 
 The goal of this analysis is to **illustrate the relationship between fare and distance**. Understanding this relationship will **assist in cost optimization, demand prediction, revenue forecasting,** and **resource allocation optimization**. For example, identifying the most profitable distances enables companies to use their resources more efficiently. For instance, Tahmeed Bus Company may choose to dispatch more buses and drivers to areas with a high volume of passengers or longer trips. Furthermore, for transportation providers, **expenses such as fuel, vehicle maintenance, and driver wages are directly linked to the distance traveled**. Analyzing this relationship aids in setting fares that not only cover these costs but also ensure a healthy profit margin for every trip.
+
+<img width="1365" height="726" alt="image" src="https://github.com/user-attachments/assets/0808f451-af86-4a80-b13a-983b4943640a" />
+
+
+
+
+---
+---
+**Traffic Analysis**
+
+The objective of the analysis is to **classify and identify the busiest airport hubs by both inbound and outbound passenger traffic**. By understanding traffic patterns, Tahmeed Bus Company can **assign fleets and resources to the right routes**. For instance, Tahmeed’s resources, including marketing, bus scheduling, and maintenance, will be concentrated on high-traffic routes. This focus will help **maximize the return on investment**.
+
+**Outbound Traffic**
+
+<img width="1362" height="728" alt="image" src="https://github.com/user-attachments/assets/5c5d3240-7fdb-4d85-bfd6-4ecfc99e1f2e" />
+
+
+
+
+----
+**Inbound Traffic**
+<img width="1365" height="728" alt="image" src="https://github.com/user-attachments/assets/b1ae1742-ff66-436b-bc18-3dd09433f6f4" />
+
+
+
+
+---
+---
+**Seasonal Trends**
+
+The goal is to **analyze the total passengers count over time** (from 1993 to 2024) **to identify seasonal peaks and troughs in travel demand**.  By leveraging this information, Tahmeed Bus Company can **optimize operations, pricing, and marketing to maximize revenue and improve service quality**. For example, during predictable peak seasons, such as December holidays, Tahmeed can **implement dynamic pricing to increase fares and maximize profits**. For off-peak seasons, they can **offer promotional discounts to stimulate demand and fill otherwise empty seats**.
+<img width="1361" height="727" alt="image" src="https://github.com/user-attachments/assets/61d05b07-30f4-4ebc-9c8d-416dd8c39a27" />
 
