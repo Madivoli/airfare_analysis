@@ -3,7 +3,6 @@
 ![chuttersnap-xDjcU1Pglro-unsplash](https://github.com/user-attachments/assets/620e6067-4e7c-4eeb-9034-7559e9627020)
 
 
-
 **Introduction**
 
 This project leverages the U.S. airline passenger and fare dataset (1993-2024) to demonstrate how data-driven insights can be a competitive advantage for the bus industry in Kenya. By applying advanced data analysis techniques, this analysis will reveal popular routes, passenger travel patterns, seasonal trends, and competitive dynamics in the airline market.
@@ -53,6 +52,7 @@ The purpose of this analysis is to **calculate the profit margin of each route**
 - Based on the findings from this investigation, the company must decide whether to **optimize these routes to improve profitability**, which may include _increasing fares, reducing costs through efficiency, decreasing flight frequency_, or **changing the size of the aircraft**. Alternatively, if these routes cannot be made profitable, the company may **consider discontinuing them altogether**.
 - Additionally, the company should **analyze the characteristics of its most profitable routes**, such as Albany to Washington, D.C., and Albuquerque to Phoenix. By understanding what makes these routes successful, the company can attempt to **replicate their success on other routes** or **explore new routes with similar characteristics to maximize overall profitability**.
 - To expand profitable operations, the company should **reevaluate its entire pricing structure**, especially for loss-making routes. This reevaluation will **help ensure that prices are more closely aligned with costs** and **market value for each route**, thereby _standardizing profit margins_ and _preventing significant losses on any single route in the future_.
+
 ---
 ---
 **Popular Routes Analysis**
