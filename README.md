@@ -97,6 +97,8 @@ The goal of this analysis is to **illustrate the relationship between fare and d
 - **The data points group routes into distinct categories or tiers**. The green cluster represents routes with **shorter distances and lower fares** (typically under $200), while the red cluster indicates **longer-distance routes with higher fares**. The orange area in between denotes **medium-haul routes, which act as a transition zone**.
 - Although the overall trend shows an increase in fare with distance, **there is significant variability, particularly for medium and longer distances**.
 - For instance, some routes with a distance of around 1,500 miles have fares ranging from approximately $238 to over $249. **This variation suggests inconsistencies in fare pricing, indicating that factors other than distance also influence the final fare**.
+- For instance, **competition, airport type, demand and carrier, play a major role**.
+- **Variability grows with distance:** Short-haul routes have tighter fare ranges; long-haul routes show wider fare spreads.
 
 📉 **Business and Operational Implications**
 - **The scatter plot supports the company's core pricing strategy by effectively linking fare to distance**. This connection is essential for **maintaining a fair and transparent pricing system**.
