@@ -49,9 +49,12 @@ The purpose of this analysis is to **calculate the profit margin of each route**
 
 💡 **Recommendations for Managers**
 - The company should **investigate routes with negative profit margins**, such as those from Albany to San Francisco and Appleton to Tampa Bay. This is **to identify the specific reasons for their unprofitability** — whether it is due to low demand, high operational costs, or intense competition.
-- Based on the findings from this investigation, the company must decide whether to **optimize these routes to improve profitability**, which may include _increasing fares, reducing costs through efficiency, decreasing flight frequency_, or **changing the size of the aircraft**. Alternatively, if these routes cannot be made profitable, the company may **consider discontinuing them altogether**.
-- Additionally, the company should **analyze the characteristics of its most profitable routes**, such as Albany to Washington, D.C., and Albuquerque to Phoenix. By understanding what makes these routes successful, the company can attempt to **replicate their success on other routes** or **explore new routes with similar characteristics to maximize overall profitability**.
-- To expand profitable operations, the company should **reevaluate its entire pricing structure**, especially for loss-making routes. This reevaluation will **help ensure that prices are more closely aligned with costs** and **market value for each route**, thereby _standardizing profit margins_ and _preventing significant losses on any single route in the future_.
+- Based on the findings from this investigation, the company must decide whether to **optimize these routes to improve profitability**, which may include _increasing fares, reducing costs through efficiency, decreasing flight frequency_, or _changing the size of the aircraft_.
+- Alternatively, if these routes cannot be made profitable, **the company may consider discontinuing them altogether**.
+- Additionally, the company should **analyze the characteristics of its most profitable routes**, such as Albany to Washington, D.C., and Albuquerque to Phoenix.
+- By understanding what makes these routes successful, the company can attempt to **replicate their success on other routes** or **explore new routes with similar characteristics to maximize overall profitability**.
+- To expand profitable operations, the company should **reevaluate its entire pricing structure**, especially for loss-making routes.
+- This reevaluation will **help ensure that prices are more closely aligned with costs** and **market value for each route**, thereby _standardizing profit margins_ and _preventing significant losses on any single route in the future_.
 
 ---
 ---
@@ -66,7 +69,7 @@ Popular route analysis provides transportation and logistics businesses with cru
 🔍 **Key Insights**
 - Several routes are particularly popular, including **Chicago - New York City with 1 million passengers**; **Los Angeles - San Francisco with over 2 million passengers;** and **Boston - Washington, with over 700 thousand passengers**. These figures indicate **a high volume of travelers on these routes**.
 - In contrast, **some routes experience very low passenger counts**, forming what is often referred to as **a "long tail"**. For example, Chicago, IL - Spokane, WA and Los Angeles, CA - Savannah, GA, each had slightly over a thousand passengers during the analysis period.
-- The top five most popular cities in terms of passenger traffic are Chicago, IL; Los Angeles, CA; Boston, MA; New York City, NY; and Dallas/Fort Worth, TX.
+- The top five most popular routes in terms of passenger traffic are Chicago, IL; Los Angeles, CA; Boston, MA; New York City, NY; and Dallas/Fort Worth, TX.
 
 📉 **Business and Operational Implications**
 
@@ -96,9 +99,13 @@ The goal of this analysis is to **illustrate the relationship between fare and d
 - For example, in Los Angeles, CA, a distance of 120 miles typically incurs a fare of USD 102. In contrast, a route from Boston, MA, covering 2,705 miles charges an average fare of USD 295.
 - **The data points group routes into distinct categories or tiers**. The green cluster represents routes with **shorter distances and lower fares** (typically under $200), while the red cluster indicates **longer-distance routes with higher fares**. The orange area in between denotes **medium-haul routes, which act as a transition zone**.
 - Although the overall trend shows an increase in fare with distance, **there is significant variability, particularly for medium and longer distances**.
-- For instance, some routes with a distance of around 1,500 miles have fares ranging from approximately $238 to over $249. **This variation suggests inconsistencies in fare pricing, indicating that factors other than distance also influence the final fare**.
+- For instance, some routes with a distance of around 1,500 miles have fares ranging from approximately $238 to over $249. **This variation suggests inconsistencies in fare pricing**, indicating that factors other than distance also influence the final fare.
 - For instance, **competition, airport type, demand and carrier, play a major role**.
 - **Variability grows with distance:** Short-haul routes have tighter fare ranges; long-haul routes show wider fare spreads.
+- Some long-distance routes have **lower-than-expected fares** — possibly due to:
+    - High competition (e.g., transcontinental routes)
+    - Low-cost long-haul carriers
+    - Promotional pricing
 
 📉 **Business and Operational Implications**
 - **The scatter plot supports the company's core pricing strategy by effectively linking fare to distance**. This connection is essential for **maintaining a fair and transparent pricing system**.
@@ -113,6 +120,9 @@ The goal of this analysis is to **illustrate the relationship between fare and d
 - This analysis could **uncover factors influencing pricing beyond distance alone**, such as _demand_, _operational costs for specific routes_, or _competitive pressure_.
 - **If there are legitimate reasons for the fare discrepancies** — such as peak travel times, express routes, or routes that involve tolls — **these should be clearly communicated to customers**.
 - Providing this transparency can help **mitigate potential negative customer perceptions and dissatisfaction**.
+- **Adopt dynamic pricing models:** use more than just distance — factor in competition, demand, and customer type.
+- **Identify underpriced long-haul routes:** The management should consider raising fares where distance-fare ratio is low and demand is inelastic.
+- **Review short-haul premiums:** management should justify high short-haul fares or introduce competitive pricing to increase volume.
 
 
 ---
@@ -171,7 +181,7 @@ This level of detail is **crucial for effective route planning**.
 
 ---
 ---
-**Seasonal Trends**
+**Passenger Trends**
 
 The goal is to **analyze the total passengers count over time** (from 1993 to 2024) **to identify seasonal peaks and troughs in travel demand**.  By leveraging this information, Tahmeed Bus Company can **optimize operations, pricing, and marketing to maximize revenue and improve service quality**. For example, during predictable peak seasons, such as December holidays, Tahmeed can **implement dynamic pricing to increase fares and maximize profits**. For off-peak seasons, they can **offer promotional discounts to stimulate demand and fill otherwise empty seats**.
 
@@ -197,3 +207,8 @@ The goal is to **analyze the total passengers count over time** (from 1993 to 20
 - Based on this analysis, **airlines should consider re-evaluating their current routes to better match demand**. Some routes may need to be **scaled back or discontinued**, while new **routes in high-demand areas could be explored to increase ridership and improve efficiency**.
 - To regain customers, **airlines should focus on enhancing the passenger experience**. This may involve **upgrading the fleet**, **ensuring timely arrivals and departures**, and **implementing a customer feedback system to proactively address service issues**.
 
+---
+---
+**Fare Patterns Analysis**
+
+<img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/7557ebdc-9ae1-482f-a593-906e684bc011" />
